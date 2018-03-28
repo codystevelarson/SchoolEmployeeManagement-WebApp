@@ -1,0 +1,5 @@
+::School-Employee-Management::
+
+An ASP.NET MVC web app to track school employees.
+
+- In-memory based UI created with cshtml driven by controllers.
